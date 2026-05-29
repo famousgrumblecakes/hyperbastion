@@ -1,0 +1,3 @@
+[submodule "sshpiper/sshpiper"]
+	path = sshpiper/sshpiper
+	url = https://github.com/tg123/sshpiper
